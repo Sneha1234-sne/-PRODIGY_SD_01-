@@ -1,5 +1,5 @@
-# -PRODIGY_SD_01-
-##A temperature conversion program, that converts Celsius to Fahrenheit and kelvin and present the converted values as outputs.##
+# PRODIGY_SD_01 
+"A temperature conversion program, that converts Celsius to Fahrenheit and kelvin and present the converted values as outputs.""
 def convert_temperature():
     # Prompt user for input temperature and unit
     temp = float(input("Enter the temperature: "))
